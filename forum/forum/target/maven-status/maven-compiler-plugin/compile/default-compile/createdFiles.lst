@@ -1,0 +1,6 @@
+com\example\forum\ForumApplication.class
+com\example\forum\model\Topic.class
+com\example\forum\repository\TopicRepository.class
+com\example\forum\model\Topic$Status.class
+com\example\forum\service\TopicService.class
+com\example\forum\controller\TopicController.class
